@@ -7,5 +7,8 @@ git clone https://github.com/quangvinh1192/ud036_StarterCode.git
 cd ud036_StarterCode
 ``` 
 ## Usage
-OPen fresh_tomatoes.html with any brower such as Google Chrome or Safari
+Use this commend to open up the webpage 
 
+```bash
+python entertainment_center.py
+``` 
